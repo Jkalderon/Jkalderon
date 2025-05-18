@@ -1,4 +1,4 @@
-  # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpkNWFwNjV2cDg3MnhvczRzbW9lN2xtNGpsdDc0YXB0emZhaHlsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="100"/> Hola, Soy Julio y colecciono recursos de Ciberseguridad
+  # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpkNWFwNjV2cDg3MnhvczRzbW9lN2xtNGpsdDc0YXB0emZhaHlsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="100"/> Hola, Bienvenido a mi galeria de recursos en Ciberseguridad
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julio-calderón-aguilar-5415b942)
   [![x](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Calderjulio)
