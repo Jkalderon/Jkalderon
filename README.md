@@ -1,4 +1,4 @@
-  # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpkNWFwNjV2cDg3MnhvczRzbW9lN2xtNGpsdDc0YXB0emZhaHlsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="100"/> Hola, Bienvenido a mi galeria de recursos en Ciberseguridad
+  # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpkNWFwNjV2cDg3MnhvczRzbW9lN2xtNGpsdDc0YXB0emZhaHlsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="100"/> Hola, Bienvenido a mis recursos en Ciberseguridad
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julio-calderón-aguilar-5415b942)
   [![x](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Calderjulio)
@@ -26,7 +26,7 @@
         <tbody>
             <tr>
                 <td>
-                Me dedico al campo de la ciberseguridad y uno de los principales retos a los que me he enfrentado<br>
+                Me dedico al campo de la ciberseguridad y Resiliencia Organizacional, uno de los principales retos a los que me he enfrentado<br>
 		es la falta de recursos para capacitarme y mejorar la seguridad de las empresas en las que trabajo.<br>
 		Por esa razón he recopilado materiales y herramientas y las pongo a tu disposición para que puedas <br>
 		aplicarlas en tu entorno personal y laboral.</p>
@@ -41,29 +41,3 @@
         </tbody>
     </table>
 </div><br>
-
-<div id="terminal">
-<h3>Últimos temas en los que he trabajado</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <th style="width: 300px;"> <b>📚 Proyecto</b></th>
-      <th style="width: 500px;"> <b>⭐ Detalle</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href=""><b>Certificación en Ciberseguridad TEC Monterrey</b></a></td>
-      <td>Actualmente en proceso</td>
-    </tr>
-	  <tr>
-      <td><a href=""><b>Certificación compTIA Pentest+</b></a></td>
-      <td>Actualmente en proceso</td>
-    </tr>
-    <tr>
-      <td><a href=""><b>Certificación EC-Councir C|CCT</b></a></td>
-      <td>Actualmente en proceso</td>
-    </tr>
-  </tbody>
-</table>
-</div>
